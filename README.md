@@ -45,6 +45,7 @@ Setup & Run
 4. You will see in the console the localhost URL with the port. Default ports are `https://localhost:7152` and `http://localhost:5229`. Add `/swagger/index.html` after `https://localhost:port`. If you run from VS, choose `https` profile and it will open Swagger page immediately.
 
 API Endpoints
+
     Accounts:
     - `POST /api/accounts`: Create account
     - `GET /api/accounts/{accountNumber}`: Get account details
